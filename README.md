@@ -12,7 +12,7 @@ Install from PyPI:
 pip install phylogeoplot
 ```
 
-PhyloGeoPlot requires **Python 3.10 or later**.
+PhyloGeoPlot requires **Python >= 3.10**.
 
 ## Dependencies
 
