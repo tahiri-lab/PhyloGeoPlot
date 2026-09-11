@@ -1,8 +1,28 @@
 <h1 align="center">🗺️ PhyloGeoPlot</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="280">
-</div>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <details open>
+        <summary><strong>Table of Contents</strong></summary>
+        <ol>
+          <li><a href="#-about-the-project">About the project</a></li>
+          <li><a href="#%EF%B8%8F-installation">Installation</a></li>
+          <li><a href="#-dependencies">Dependencies</a></li>
+          <li><a href="#-basic-usage">Basic usage</a></li>
+          <li><a href="#-documentation">Documentation</a></li>
+          <li><a href="#-examples">Examples</a></li>
+          <li><a href="#-tests">Tests</a></li>
+          <li><a href="#-license">License</a></li>
+          <li><a href="#-citation">Citation</a></li>
+        </ol>
+      </details>
+    </td>
+    <td valign="top" align="right">
+      <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="280">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
@@ -14,26 +34,16 @@
 
 <h2 align="center">A Python toolkit for phylogeographic visualization linking phylogenetic and geographic data</h2>
 
-<details open>
-  <summary><strong>Table of Contents</strong></summary>
-  <ol>
-    <li><a href="#-about-the-project">About the project</a></li>
-    <li><a href="#%EF%B8%8F-installation">Installation</a></li>
-    <li><a href="#-dependencies">Dependencies</a></li>
-    <li><a href="#-basic-usage">Basic usage</a></li>
-    <li><a href="#-documentation">Documentation</a></li>
-    <li><a href="#-examples">Examples</a></li>
-    <li><a href="#-tests">Tests</a></li>
-    <li><a href="#-license">License</a></li>
-    <li><a href="#-citation">Citation</a></li>
-  </ol>
-</details>
-
 ---
 
 ## 📝 About the project
 
-**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic locations, enabling integrated phylogeographic analysis and visualization.
+**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic coordinates and allows trait values (e.g. environmental variables) to be mapped directly on both branches and distribution maps.
+
+Key goals:
+- simplify phylogeographic figure production;
+- support publication-quality visual outputs;
+- provide reproducible pipelines for biogeographic analyses.
 
 ## ⚙️ Installation
 
