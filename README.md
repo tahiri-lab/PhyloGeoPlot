@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top">
+    <td valign="top" width="45%">
       <details open>
         <summary><strong>Table of Contents</strong></summary>
         <ol>
@@ -18,8 +18,8 @@
         </ol>
       </details>
     </td>
-    <td valign="top" align="right">
-      <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="280">
+    <td valign="top" align="center" width="55%">
+      <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="500">
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@
 
 ## 📝 About the project
 
-**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic coordinates and allows trait values (e.g. environmental variables) to be mapped directly on both branches and distribution maps.
+**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic coo[...]
 
 Key goals:
 - simplify phylogeographic figure production;
