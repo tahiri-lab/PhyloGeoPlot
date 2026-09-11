@@ -47,7 +47,7 @@
 
 ## 📝 About the project
 
-**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic coo[...]
+**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic coordinates/locations on an interactive map.
 
 Key goals:
 - simplify phylogeographic figure production;
