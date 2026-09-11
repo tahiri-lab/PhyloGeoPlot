@@ -1,27 +1,36 @@
 <h1 align="center">🗺️ PhyloGeoPlot</h1>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="60%">
-      <details open>
-        <summary><strong>Table of Contents</strong></summary>
-        <ol>
-          <li><a href="#-about-the-project">About the project</a></li>
-          <li><a href="#%EF%B8%8F-installation">Installation</a></li>
-          <li><a href="#-dependencies">Dependencies</a></li>
-          <li><a href="#-basic-usage">Basic usage</a></li>
-          <li><a href="#-documentation">Documentation</a></li>
-          <li><a href="#-examples">Examples</a></li>
-          <li><a href="#-tests">Tests</a></li>
-          <li><a href="#-license">License</a></li>
-          <li><a href="#-citation">Citation</a></li>
-        </ol>
-      </details>
-    </td>
-    <td valign="top" align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="500">
-    </td>
-  </tr>
+<table>
+<tr>
+<th align="left">
+<img width="441" height="1">
+<p> 
+<small>
+<details open>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#-about-the-project">About the project</a></li>
+    <li><a href="#%EF%B8%8F-installation">Installation</a></li>
+    <li><a href="#-dependencies">Dependencies</a></li>
+    <li><a href="#-basic-usage">Basic usage</a></li>
+    <li><a href="#-documentation">Documentation</a></li>
+    <li><a href="#-examples">Examples</a></li>
+    <li><a href="#-tests">Tests</a></li>
+    <li><a href="#-license">License</a></li>
+    <li><a href="#-citation">Citation</a></li>
+  </ol>
+</details>
+</small>
+</p>
+</th>
+<th align="center">
+<p> 
+<small>
+<img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo">
+</small>
+</p>
+</th>
+</tr>
 </table>
 
 <p align="center">
