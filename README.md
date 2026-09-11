@@ -81,10 +81,6 @@ python -m pytest -v
 
 PhyloGeoPlot is distributed under the [MIT License](https://github.com/tahiri-lab/PhyloGeoPlot/blob/main/LICENSE).
 
-## 👤 Author
-
-**Caroline Fortier**
-
 ## ✏️ Citation
 
 Citation information will be added here following publication.
