@@ -134,3 +134,6 @@ PhyloGeoPlot is distributed under the [MIT License](https://github.com/tahiri-la
 ## ✏️ Citation
 
 Citation information will be added here following publication.
+
+## 📧 Contact
+Please email us at: <Nadia.Tahiri@USherbrooke.ca> for any questions or feedback.
