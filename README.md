@@ -1,7 +1,7 @@
 <h1 align="center">🗺️ PhyloGeoPlot</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo.png" alt="PhyloGeoPlot Logo" width="280">
+  <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo.jpg" alt="PhyloGeoPlot Logo" width="280">
 </div>
 
 <p align="center">
@@ -34,8 +34,6 @@
 ## 📝 About the project
 
 **PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic locations, enabling integrated phylogeographic analysis and visualization.
-
-![PhyloGeoPlot example](https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/tree2map_caff_raster_readme.png)
 
 ## ⚙️ Installation
 
