@@ -1,7 +1,7 @@
 <h1 align="center">🗺️ PhyloGeoPlot</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo.jpg" alt="PhyloGeoPlot Logo" width="280">
+  <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="280">
 </div>
 
 <p align="center">
