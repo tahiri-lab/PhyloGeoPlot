@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "phylogeoplot"
-version = "0.1.4"
+version = "0.1.5"
 description = "Linked phylogenetic and geographic visualization in Python."
 readme = "README.md"
 requires-python = ">=3.10"
