@@ -1,6 +1,39 @@
-# 🗺️ PhyloGeoPlot
+<h1 align="center">🗺️ PhyloGeoPlot</h1>
 
-**PhyloGeoPlot** is a Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic locations[...]
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo.png" alt="PhyloGeoPlot Logo" width="280">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  <img src="https://img.shields.io/badge/contributions-welcome-blue.svg" alt="Contributions">
+  <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python">
+  <img src="https://img.shields.io/pypi/v/phylogeoplot.svg" alt="PyPI version">
+  <img src="https://img.shields.io/badge/Documentation%20-%20GitHub%20Wiki-green.svg" alt="Documentation - GitHub Wiki">
+</p>
+
+<h2 align="center">A Python toolkit for phylogeographic visualization linking phylogenetic and geographic data</h2>
+
+<details open>
+  <summary><strong>Table of Contents</strong></summary>
+  <ol>
+    <li><a href="#-about-the-project">About the project</a></li>
+    <li><a href="#%EF%B8%8F-installation">Installation</a></li>
+    <li><a href="#-dependencies">Dependencies</a></li>
+    <li><a href="#-basic-usage">Basic usage</a></li>
+    <li><a href="#-documentation">Documentation</a></li>
+    <li><a href="#-examples">Examples</a></li>
+    <li><a href="#-tests">Tests</a></li>
+    <li><a href="#-license">License</a></li>
+    <li><a href="#-citation">Citation</a></li>
+  </ol>
+</details>
+
+---
+
+## 📝 About the project
+
+**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic locations, enabling integrated phylogeographic analysis and visualization.
 
 ![PhyloGeoPlot example](https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/tree2map_caff_raster_readme.png)
 
