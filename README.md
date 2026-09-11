@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top" width="45%">
+    <td valign="top" width="60%">
       <details open>
         <summary><strong>Table of Contents</strong></summary>
         <ol>
@@ -18,7 +18,7 @@
         </ol>
       </details>
     </td>
-    <td valign="top" align="center" width="55%">
+    <td valign="top" align="center" width="40%">
       <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="500">
     </td>
   </tr>
