@@ -2,23 +2,25 @@
 
 <table align="center">
   <tr>
-    <td valign="top" width="60%">
-      <details open>
-        <summary><strong>Table of Contents</strong></summary>
-        <ol>
-          <li><a href="#-about-the-project">About the project</a></li>
-          <li><a href="#%EF%B8%8F-installation">Installation</a></li>
-          <li><a href="#-dependencies">Dependencies</a></li>
-          <li><a href="#-basic-usage">Basic usage</a></li>
-          <li><a href="#-documentation">Documentation</a></li>
-          <li><a href="#-examples">Examples</a></li>
-          <li><a href="#-tests">Tests</a></li>
-          <li><a href="#-license">License</a></li>
-          <li><a href="#-citation">Citation</a></li>
-        </ol>
-      </details>
+    <td valign="top" width="45%">
+
+<details open>
+<summary><strong>Table of Contents</strong></summary>
+
+1. [📝 About the project](#-about-the-project)
+2. [⚙️ Installation](#%EF%B8%8F-installation)
+3. [📦 Dependencies](#-dependencies)
+4. [💻 Basic usage](#-basic-usage)
+5. [📖 Documentation](#-documentation)
+6. [📚 Examples](#-examples)
+7. [✅ Tests](#-tests)
+8. [📋 License](#-license)
+9. [✏️ Citation](#-citation)
+
+</details>
+
     </td>
-    <td valign="top" align="center" width="40%">
+    <td valign="top" align="center" width="55%">
       <img src="https://raw.githubusercontent.com/tahiri-lab/PhyloGeoPlot/main/images/logo_phylogeoplot.jpg" alt="PhyloGeoPlot Logo" width="500">
     </td>
   </tr>
@@ -38,7 +40,7 @@
 
 ## 📝 About the project
 
-**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic coo[...]
+**PhyloGeoPlot** is a powerful Python package for linked visualization of phylogenetic trees and geographic occurrence data. It connects taxa represented in a phylogenetic tree to their geographic coordinates and can optionally integrate environmental raster layers.
 
 Key goals:
 - simplify phylogeographic figure production;
